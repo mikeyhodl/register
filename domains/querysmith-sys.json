@@ -4,7 +4,8 @@
     "email": "dipokgithub@gmail.com"
   },
   "records": {
-    "CNAME": "dsmith-sys.vercel.app"
+    "CNAME": "dsmith-sys.vercel.app",
+    "TXT": "vc-domain-verify=querysmith-sys.is-a.dev,ae26a37e05de66ebdc27"
   },
   "proxied": true
 }
