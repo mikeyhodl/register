@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "querysmith-sys",
+    "email": "dipokgithub@gmail.com"
+  },
+  "records": {
+    "CNAME": "dsmith-sys.vercel.app"
+  },
+  "proxied": true
+}
